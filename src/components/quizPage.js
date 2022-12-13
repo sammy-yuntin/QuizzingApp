@@ -100,6 +100,8 @@ const QuizPage = () =>{
             <QuizId/>
             <Question/>
             <QuizOptions/>
+            <button className="prev">PREVIOUS</button>
+            <button className="next">NEXT</button>
         </div>
     )
 };

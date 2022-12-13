@@ -50,9 +50,11 @@
   border: 2px solid whitesmoke;
 }
 .QuizArea{
+  
+  margin: 3rem auto auto auto;
   justify-content: center;
-  border: 3px solid black;
-  /* width: 40%; */
+  border: 3px solid green;
+  width: 40%;
   align-items: center;
   padding: 10vw;
 
